@@ -13,12 +13,12 @@ to the movies and play with my dog.
 ## Education 
 ### Postgraduate
 •	INFNET / RJ BRAZIL
-•	Oct 2010 – Sept 2012
+•	Oct 2010 – Sept 2012 <br>
 Software Engineer JAVA based, TDD, FPUC.
 
 ### Graduate
 •	UNESA / RJ BRAZIL
-•	Feb 2008 – Dec 2003
+•	Feb 2008 – Dec 2003 <br>
 Requirements elicitation, development, analysis and design, processes and methodologies of software.
 
 ## Experience
