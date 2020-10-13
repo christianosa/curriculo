@@ -75,7 +75,7 @@ I participated in the team that developed the software platform that controls sc
 * Vue.js
 * Express
 
-## Programming language
+### Programming language
 * Node.js
 * C#
 * JAVA
