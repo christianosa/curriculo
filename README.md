@@ -1,4 +1,4 @@
-# Christiano Sá
+## Christiano Sá
 Software engineer, front-end and back-end developer.
 christiano.sa@gmail.com
 
@@ -10,19 +10,19 @@ passionate about technology, I like to learn and I always try to be up to date. 
 real interest in Javascript and web / mobile development. I use my free time to read, go 
 to the movies and play with my dog. 
 
-# Education 
-## Postgraduate
+## Education 
+### Postgraduate
 •	INFNET / RJ BRAZIL
 •	Oct 2010 – Sept 2012
 Software Engineer JAVA based, TDD, FPUC.
 
-## Graduate
+### Graduate
 •	UNESA / RJ BRAZIL
 •	Feb 2008 – Dec 2003
 Requirements elicitation, development, analysis and design, processes and methodologies of software.
 
-# Experience
-## IT Manager | 2018 - PRESENT
+## Experience
+### IT Manager | 2018 - PRESENT
 <b>VALID SA – São Paulo, Brazil</b>
 (leader in the issuance of driver's license segment, responsible for issuing over 80% of driver's licenses in Brazil)
 I lead three development teams, including 42 employees. Together We’re Responsible for: <br>
@@ -30,17 +30,17 @@ I lead three development teams, including 42 employees. Together We’re Respons
 •	Work on APP, delivered on the IOS and ANDROID platforms. This APP allows citizens to get a secure digital version of their ID document on his smartphone. In this APP is also is possible to request another physical copy of the document (25 thousand documents requested at first month), increasing the company's revenue in 5% in this contract. <br>
 •	Certify DEV process on CMMI-DEV level 5 of maturity. This certification helps company to close one contract with monthly revenue of approximately R $ 4 million in 2020. <br>
 
-## Team Leader | 2010 - 2018
+### Team Leader | 2010 - 2018
 <b>VALID SA – São Paulo, Brazil</b>
 Management of a team of 12 people, including 6 analysts, 5 programmers and 1 QA. Together We was responsible for: <br>
 •	Created software platform to identify people using biometrics (technology that use finger and face to identify people). This product was used in a contract with a large customer (in 2014), contributing to reach monthly revenue of R $ 4.5 million. <br>
 
-## SYSTEMS ANALIST | 2007 - 2010
+### Systems Analist | 2007 - 2010
 <b>BRASILVEICULOS – Rio de Janeiro, Brazil</b>
 I participated in the team that developed the software platform that controls schedules, used by CALL CENTER. We made an improvement in the way of selecting customers, increasing the rate of contracting insurance through the bank's service channel, reaching approximately 5% growth
 
 
-# Skills
+## Skills
 * PROFESSIONAL
 *	Leadership
 *	Commitment 
@@ -50,28 +50,28 @@ I participated in the team that developed the software platform that controls sc
 *	Priority Sense
 
 
-# Knowlegment
+## Knowlegment
 
-## General
+### General
 * Logic Programming
 * Office
 
-## Tools
+### Tools
 *	JIRA
 *	Enterprise Architect
 
-## Technics
+### Technics
 * TDD
 * FPUC
 
-## Frameworks
+### Frameworks
 * Scrum
 
-## Operational Systems
+### Operational Systems
 * OS X
 * Windows
 
-## Frameworks Front-end
+### Frameworks Front-end
 * Vue.js
 * Express
 
@@ -81,17 +81,17 @@ I participated in the team that developed the software platform that controls sc
 * JAVA
 * APEX
 
-## UI Kits
+### UI Kits
 * Bootstrap
 * Bulma
 
-## Database
+### Database
 * SQL Server
 * Oracle
 * MySQL
 * PostgreSQL
 
-# Certifications
+## Certifications
 * EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/EXIN%20-%20DPO.pdf">Certified Data Protection Officer (JUN-2020)</a>
 * EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/EXIN%20-%20ISFS.pdf"> Informatio Security Management (MAR-2020)></a>
 * EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/EXIN%20-%20PDPF.pdf"> Privacy Data Protection Foundation (MAR-2020) </a>
