@@ -13,12 +13,12 @@ to the movies and play with my dog.
 ## Education 
 ### Postgraduate
 •	INFNET / RJ BRAZIL
-•	Oct 2010 – Sept 2012
+•	Oct 2010 – Sept 2012 <br>
 Software Engineer JAVA based, TDD, FPUC.
 
 ### Graduate
 •	UNESA / RJ BRAZIL
-•	Feb 2008 – Dec 2003
+•	Feb 2008 – Dec 2003 <br>
 Requirements elicitation, development, analysis and design, processes and methodologies of software.
 
 ## Experience
@@ -92,11 +92,11 @@ I participated in the team that developed the software platform that controls sc
 * PostgreSQL
 
 ## Certifications
-* EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/EXIN%20-%20DPO.pdf">Certified Data Protection Officer (JUN-2020)</a>
-* EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/EXIN%20-%20ISFS.pdf"> Informatio Security Management (MAR-2020)></a>
-* EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/EXIN%20-%20PDPF.pdf"> Privacy Data Protection Foundation (MAR-2020) </a>
-* EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/EXIN%20-%20PDPP.pdf"> Privacy Data Protection Pratictioner (JUN-2020)</a>
-* CARBONO - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/Management3.0.pdf"> Management 3.0 (DEC-2019)</a>
-* SCRUM.ORG - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/PSM%20I.pdf">Professional Scrum Master (FEB-2020)</a>
+* EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/certificados/EXIN%20-%20DPO.pdf">Certified Data Protection Officer (JUN-2020)</a>
+* EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/certificados/EXIN%20-%20ISFS.pdf"> Informatio Security Management (MAR-2020)></a>
+* EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/certificados/EXIN%20-%20PDPF.pdf"> Privacy Data Protection Foundation (MAR-2020) </a>
+* EXIN - <a href="https://github.com/christianosa/curriculo/blob/master/certificados/EXIN%20-%20PDPP.pdf"> Privacy Data Protection Pratictioner (JUN-2020)</a>
+* CARBONO - <a href="https://github.com/christianosa/curriculo/blob/master/certificados/Management3.0.pdf"> Management 3.0 (DEC-2019)</a>
+* SCRUM.ORG - <a href="https://github.com/christianosa/curriculo/blob/master/certificados/PSM%20I.pdf">Professional Scrum Master (FEB-2020)</a>
 * SUN - SCJP
-* 6sigma study - <a href="https://github.com/christianosa/curriculo/blob/master/PDF/6sigmastudy%20-%20yellow%20belt.pdf">Six Sigma Yellow Belt</a>
+* 6sigma study - <a href="https://github.com/christianosa/curriculo/blob/master/certificados/6sigmastudy%20-%20yellow%20belt.pdf">Six Sigma Yellow Belt</a>
